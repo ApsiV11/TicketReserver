@@ -1,5 +1,9 @@
 # Simple ticket reserver for KideApp
 
+## Disclaimer
+This repository isn't being maintained anymore since I have made a more user friendly browser version of the bot.    
+For more info see: https://github.com/ApsiV11/TicketReserverChrome
+
 ## Requirements
 Python 3 with requests package installed. 
 1. https://www.python.org/downloads/
